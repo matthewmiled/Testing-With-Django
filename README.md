@@ -1,5 +1,5 @@
 # Testing-With-Django
-A simple Django app (with only one model) that utilises automated testing using GitHub actions.
+A simple Django app that utilises automated testing using GitHub actions.
 
 ## Testing Principles
 * Using the `coverage` library, it can be determined which part of the program/models is not being monitored
