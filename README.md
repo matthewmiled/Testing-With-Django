@@ -14,7 +14,7 @@ A simple Django app that utilises automated testing using GitHub actions.
 
 * `flake8` can be used to 'lint' the code and identify areas that do not conform to PEP8
   * Once installed, run `flake8` in command line to return a list of issues
-  * Configuration/criteria for `flake` can be defined in `setup.cfg' (e.g. do not lint certain files, increase max line length)
+  * Configuration/criteria for `flake` can be defined in `setup.cfg` (e.g. do not lint certain files, increase max line length)
   
 * All of these tests can be run locally on machine via the command line, but they can also be automated via GitHub actions
 
